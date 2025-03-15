@@ -5,13 +5,14 @@
 
 - 🔭 I'm currently working on Business Analytics projects
 - 🌱 I'm currently learning **Advanced Data Visualization, Business Intelligence Tools**
-- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="download (11).png" alt="Nextleap Portfolio" height="30"/></a>
+- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="Nextleap.png" alt="Nextleap Portfolio" height="30"/></a>
 - 💬 Ask me about **Data Analysis, Business Intelligence, Visualization**
 - 📫 How to reach me **shreedhumale88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrinath-dhumale-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinath-dhumale-" height="30" width="40" /></a>
+<a href="https://github.com/Shri-00" target="blank"><img align="center" src="Git.jpeg" alt="Shri-00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
