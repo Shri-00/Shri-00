@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrinath Dhumale</h1>
 <h3 align="center">Master of Digital Humanities and Social Sciences with a passion for Business Analytics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shri-00&label=Profile%20views&color=0e75b6&style=flat" alt="Shri-00" /> </p>
 
 - 🔭 I'm currently working on Business Analytics projects
 - 🌱 I'm currently learning **Advanced Data Visualization, Business Intelligence Tools**
