@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shrinath Dhumale</h1>
-<h3 align="center">Master of Digital Humanities and Social Sciences with a passion for Business Analytics.</h3>
+<h3 align="center">Passion for Business Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shri-00&label=Profile%20views&color=0e75b6&style=flat" alt="Shri-00" /> </p>
 
 - 🔭 I'm currently working on Business Analytics projects
 - 🌱 I'm currently learning **Advanced Data Visualization, Business Intelligence Tools**
-- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="Nextleap.png" alt="Nextleap Portfolio" height="30"/></a>
+- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="download (11).png" alt="Nextleap Portfolio" height="30"/></a>
 - 💬 Ask me about **Data Analysis, Business Intelligence, Visualization**
 - 📫 How to reach me **shreedhumale88@gmail.com**
 
