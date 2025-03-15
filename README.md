@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shrinath Dhumale</h1>
 <h3 align="center">Master of Digital Humanities and Social Sciences with a passion for Business Analytics.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shri-00&label=Profile%20views&color=0e75b6&style=flat" alt="Shri-00" /> </p>
 
 - 🔭 I'm currently working on Business Analytics projects
 - 🌱 I'm currently learning **Advanced Data Visualization, Business Intelligence Tools**
-- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="download (10).png" alt="Nextleap Portfolio" height="30"/></a>
+- 👨‍💻 Portfolio: <a href="https://nextleap.app/portfolio/shrinath-dhumale-0fbe" target="_blank"><img src="Nextleap.png" alt="Nextleap Portfolio" height="30"/></a>
 - 💬 Ask me about **Data Analysis, Business Intelligence, Visualization**
 - 📫 How to reach me **shreedhumale88@gmail.com**
 
@@ -24,7 +25,7 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="miro" width="40" height="40"/> </a>
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="images (1).png" alt="confluence" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
